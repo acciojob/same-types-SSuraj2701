@@ -1,7 +1,7 @@
 function isSameType(value1, value2) {
   //your js code here
 
-	if (Number.NAN(value1 && Number.NAN(value2))){
+	if (Number.NAN(value1) && Number.NAN(value2)){
 		return true;
 		
 	}
